@@ -1,4 +1,4 @@
-<h1>CRUD em PHP </h1>
+<!---- <h1>CRUD em PHP </h1>
 <br>
 <p>Este CRUD foi desenvolvido como teste para uma vaga de estágiario. Em resumo, é uma crud simples que busca servir como sistema de uma escola. As stacks utilizadas foram: HTML, CSS, Bootstrap, PHP, Javascript/Jquery, porém o Jquery não foi implementado (explicações abaixo). </p>
 
@@ -28,4 +28,4 @@
 <p> Por fim, o último problema que me deixou insatisfeito com o projeto foi a parte de front-end/estilização. Ter optado por utilizar o bootstrap no começo acabou me dando limitações na hora de estilizar o projeto de fato, ao final da criação do CRUD. O que me fez não investir tempo no design, até porque a parte do PHP e SQL levou bastante tempo meu. Aí eu teria que desfazer toda a estrutura do bootstrap que eu havia colocado, optei por manter a simplicidade, já que imaginei que o foco não seria o design web, no momento. </p>
 
 <h2>Aproveitamento e conclusão</h2>
-<p> Por fim, apesar dos problemas foi um projeto muito proveitoso para mim, me deu os primeiros contatos com banco de dados, aprendi diversas coisas, assim como melhorou minhas habilidade em PHP. Gostaria de ter implementado mais coisas em Javascript mas ainda sinto dificuldades com a linguagem. Termino o desafio satisfeito com o resultado e a trajetória.</p>
+<p> Por fim, apesar dos problemas foi um projeto muito proveitoso para mim, me deu os primeiros contatos com banco de dados, aprendi diversas coisas, assim como melhorou minhas habilidade em PHP. Gostaria de ter implementado mais coisas em Javascript mas ainda sinto dificuldades com a linguagem. Termino o desafio satisfeito com o resultado e a trajetória.</p> --->
